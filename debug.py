@@ -11,7 +11,7 @@ except ModuleNotFoundError:
     os.system("pip install colored")
     import colored
 
-class TerminalStructure():
+class TerminalStructure(): # // Хоть class был использован неправильно или правильно, но мне чертовки не удобно пихать каждые def в один def..
 
     def pathTextTerminal(textLogoTerminal: str = None):
 
