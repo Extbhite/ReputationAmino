@@ -1,0 +1,3 @@
+amino_new.py
+colored
+pyfiglet
