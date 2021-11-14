@@ -1,8 +1,8 @@
 # ReputationAmino
 > Для использования в Termux..
-```apt update && apt upgrade```
-```pkg update && pkg upgrade```
-```pkg install python```
+- ```apt update && apt upgrade```
+- ```pkg update && pkg upgrade```
+- ```pkg install python```
 
 # Explain to work with script
 - А дальше, либо вы скачивайте зип-файл(для работы скрипта join_vc.py чтобы изменить emails_explame.json), либо клонировать гит.
