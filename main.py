@@ -1,3 +1,4 @@
+#Copyright [2021-2031] [Extbhite]
 from terminal_configs import menu, repConfig
 import os
 
