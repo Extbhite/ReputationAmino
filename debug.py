@@ -55,6 +55,7 @@ class TerminalStructure(): # // Хоть class был использован н�
                     'join_vc.py',
                     'apprep.py(For PC users)'
                 ]
+                print(list)
 
 def main():
     TerminalStructure.pathTextTerminal(textLogoTerminal="Debug")
